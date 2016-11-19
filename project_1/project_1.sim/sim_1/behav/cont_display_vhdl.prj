@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../Display7/Display7.srcs/sources_1/new/display.vhd"
+vhdl xil_defaultlib  "../../../Somador_display7seg.srcs/sources_1/new/contador_d.vhd"
+vhdl xil_defaultlib  "../../../Somador_display7seg.srcs/sources_1/new/cont_display.vhd"
+
+# Do not sort compile order
+nosort

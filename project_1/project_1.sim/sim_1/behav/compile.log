@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/Vivado/Display7/Display7.srcs/sources_1/new/display.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity display
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/Vivado/Somador_display7seg/Somador_display7seg.srcs/sources_1/new/contador_d.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity contador_d
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/Vivado/Somador_display7seg/Somador_display7seg.srcs/sources_1/new/cont_display.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cont_display
